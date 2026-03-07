@@ -1,3 +1,3 @@
 # prueba de git y github en vscode
-nombre = "carlos"
+nombre = "pepe"
 print(nombre)
