@@ -1,4 +1,4 @@
 # prueba de git y github en vscode
-nombre = "pepe"
+nombre = "pepe y luisa"
 estado = "activo"
 print(nombre)
